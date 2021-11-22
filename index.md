@@ -11,6 +11,12 @@
 [index09.html](basic/index09.html)<br>
 [index10.html](basic/index10.html)<br>
 
+## Aula de Vega-Lite-API
+
+<iframe width="100%" height="637" frameborder="0"
+  src="https://observablehq.com/embed/@otonpneto/vega-lite-api-exercicios?cells=ex1%2Cex2">
+</iframe>
+
 ---
 
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
